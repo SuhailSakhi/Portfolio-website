@@ -28,7 +28,7 @@ nav {
     font-size: 2em;
     color: rgb(0, 0, 0);
     font-weight: bold;
-    background-image: url(/img/Hasbulla.png);
+    background-image: url(../img/Hasbulla.png);
     background-size: cover;
     background-position: center;
 }
